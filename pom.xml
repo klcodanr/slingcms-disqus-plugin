@@ -42,12 +42,11 @@ implied. * See the License for the specific language governing permissions and *
     </license>
   </licenses>
 
-
-	<scm>
-		<url>git@github.com:klcodanr/slingcms-disqus-plugin.git</url>
-		<developerConnection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</developerConnection>
-		<connection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</connection>
-	  <tag>HEAD</tag>
+  <scm>
+    <url>git@github.com:klcodanr/slingcms-disqus-plugin.git</url>
+    <developerConnection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</developerConnection>
+    <connection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</connection>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
