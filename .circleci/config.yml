@@ -37,8 +37,8 @@ jobs:
             - ~/.m2
           key: v1-dependencies-{{ checksum "pom.xml" }}
 
-      # run tests!
+      # run build
       - run: mvn clean install -Dgpg.skip=true
 
       # Update Sonar
-      - run: mvn org.sonarsource.scanner.maven:sonar
+      - run: mvn verify sonar:sonar
