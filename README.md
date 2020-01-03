@@ -36,9 +36,9 @@ you want in Sling CMS and configure the Component Policy with your Disqus Commen
 
 The configuration includes the following fields:
 
-- **Disqus Short Name** (required) - Your [Disqus shortName](https://help.disqus.com/en/articles/1717111-what-s-a-shortname)
-- **Page URL Prefix** (optional) - A prefix for generating the URL for the discussion, by default the mapped relative URL will be used
-- **Page URL Suffix** (optional) - A suffix for generating the URL for the discussion, .html will be used by default
+  - **Disqus Short Name** (required) - Your [Disqus shortName](https://help.disqus.com/en/articles/1717111-what-s-a-shortname)
+  - **Page URL Prefix** (optional) - A prefix for generating the URL for the discussion, by default the mapped relative URL will be used
+  - **Page URL Suffix** (optional) - A suffix for generating the URL for the discussion, .html will be used by default
 
 ## Use
 
