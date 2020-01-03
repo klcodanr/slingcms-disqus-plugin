@@ -41,7 +41,6 @@ public class DisqusConfig {
         resource = new SyntheticResource(request.getResource().getResourceResolver(), request.getResource().getPath(),
                 request.getResource().getResourceType());
         this.config = resource.adaptTo(ComponentConfiguration.class);
-
     }
 
     private String getConfig(String key, String defaultVal) {

@@ -6,20 +6,18 @@
         "sling:resourceType": "sling-cms/components/editor/fields/text",
         "label": "Disqus Short Name",
         "name": "shortName",
-        "type": "text"
+        "required": true
     },
     "urlPrefix": {
         "jcr:primaryType": "nt:unstructured",
         "sling:resourceType": "sling-cms/components/editor/fields/text",
         "label": "Page URL Prefix",
-        "name": "urlPrefix",
-        "type": "text"
+        "name": "urlPrefix"
     },
     "urlSuffix": {
         "jcr:primaryType": "nt:unstructured",
         "sling:resourceType": "sling-cms/components/editor/fields/text",
         "label": "Page URL Suffix",
-        "name": "urlSuffix",
-        "type": "text"
+        "name": "urlSuffix"
     }
 }

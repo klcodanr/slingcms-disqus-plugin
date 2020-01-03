@@ -2,11 +2,11 @@
     "jcr:primaryType": "nt:unstructured",
     "default": {
         "jcr:primaryType": "nt:unstructured",
-        "sling:resourceType": "com-danklco/disqus/components/disqus"
+        "sling:resourceType": "com-danklco/disqus/components/disqus-comments"
     },
     "url": {
         "jcr:primaryType": "nt:unstructured",
-        "sling:resourceType": "com-danklco/disqus/components/disqus",
+        "sling:resourceType": "com-danklco/disqus/components/disqus-comments",
         "url": "https://www.danklco.com"
     }
 }
