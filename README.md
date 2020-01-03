@@ -48,7 +48,7 @@ You can also edit the Disqus Comments component to override the generated URL, h
 
 The component can also be included from any other component using the following code:
 
-  `<sling:include path="{some_path}" resourceType="com-danklco/disqus/compoents/disqus-comments" />`
+  `<sling:include path="{some_path}" resourceType="com-danklco/disqus/components/disqus-comments" />`
 
 ## Building
 
