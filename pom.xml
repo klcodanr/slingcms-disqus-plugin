@@ -25,6 +25,10 @@ implied. * See the License for the specific language governing permissions and *
     <sling.port>8080</sling.port>
     <sling.username>admin</sling.username>
     <sling.password>admin</sling.password>
+    <sonar.projectKey>slingcms-disqus-plugin</sonar.projectKey>
+    <sonar.organization>klcodanr</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>c4b18f7785c728d5d2059d2dd3b9e61e9624d7eb</sonar.login>
   </properties>
 
   <licenses>
