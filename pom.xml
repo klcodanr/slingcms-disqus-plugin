@@ -6,7 +6,7 @@ implied. * See the License for the specific language governing permissions and *
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.danklco</groupId>
   <artifactId>com.danklco.slingcms.plugins.disqus</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>bundle</packaging>
   <name>Apache Sling CMS Disqus Plugin</name>
   <description>An Apache Sling CMS plugin to embed Disqus comments</description>
@@ -47,7 +47,8 @@ implied. * See the License for the specific language governing permissions and *
 		<url>git@github.com:klcodanr/slingcms-disqus-plugin.git</url>
 		<developerConnection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</developerConnection>
 		<connection>scm:git:git@github.com:klcodanr/slingcms-disqus-plugin.git</connection>
-	</scm>
+	  <tag>com.danklco.slingcms.plugins.disqus-1.0</tag>
+  </scm>
 
   <developers>
     <developer>
