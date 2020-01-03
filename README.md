@@ -13,6 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  -->
+
+[![CircleCI](https://circleci.com/gh/klcodanr/slingcms-disqus-plugin.svg?style=svg)](https://circleci.com/gh/klcodanr/slingcms-disqus-plugin)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # Apache Sling CMS - Disqus Plugin
 
 A plugin to enable [disqus](https://disqus.com) comments in  the
