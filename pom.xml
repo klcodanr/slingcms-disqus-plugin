@@ -86,6 +86,7 @@ implied. * See the License for the specific language governing permissions and *
 Import-Package: org.osgi.framework;version="[1,3)",*
 Sling-Initial-Content: jcr_root,jcr_root/libs/danklco-com/disqus;overwrite:=true;uninstall:=false;path:=/libs/danklco-com/disqus
 -snapshot: SNAPSHOT
+Export-Package: com.danklco.slingcms.plugins.disqus
 Sling-Model-Packages: com.danklco.slingcms.plugins.disqus
                 ]]>
               </bnd>
